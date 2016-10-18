@@ -5,6 +5,10 @@ Some ideas for Arduboy games
 
 ## Personal ideas
 
+### Fonts
+![4px font](arduboy_fonts/ascii_4px/preview_x4.png)  
+An almost complete ascii font of 4 pixels wide.
+
 ### [1-bit Pacman](arduboy_pacman)
 ![Pacman preview](arduboy_pacman/preview_x3.png)  
 A reduced size of pacman that fits in the 128px wide arduboy screen.  
