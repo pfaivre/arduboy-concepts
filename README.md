@@ -5,7 +5,7 @@ Some ideas for Arduboy games
 
 ## Personal ideas
 
-### Fonts
+### [4px Font](arduboy_fonts/ascii_4px)
 ![4px font](arduboy_fonts/ascii_4px/preview_x4.png)  
 An almost complete ascii font of 4 pixels wide.
 
