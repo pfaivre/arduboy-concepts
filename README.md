@@ -14,3 +14,9 @@ An almost complete ascii font of 4 pixels wide.
 A reduced size of pacman that fits in the 128px wide arduboy screen.  
 To achieve that, the tiles are reduced to 4px size instead of 8px in the original game.
 
+### [Tiny Pokémon](arduboy_pacman)
+![Pokemon preview](arduboy_pokemon/preview2_x3.gif)  
+A reduced size of pokémon that fits in the 128px wide arduboy screen.  
+The assets when walking in the world are not reduce due to a too important loss of details.  
+But the fight screen has been reworked.
+
